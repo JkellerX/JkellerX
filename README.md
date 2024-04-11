@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 📝 About Me
-![Projekt bez nazwy (7)
 <div align="center">
 
 </div>
