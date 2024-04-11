@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-### a passionate beginner tester with extensive experience as a quality control technician in a renowned 
+### I am passionate beginner tester with extensive experience as a quality control technician.
 
 
 </div>
@@ -50,12 +50,12 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="#">
-    <img src="https://simpleskill.icons.workers.dev/svg?i=visualstudiocode,postman,html5,css3,githubactions,git,github,jira,api,docer," />
+    <img src="https://simpleskill.icons.workers.dev/svg?i=visualstudiocode,postman,html5,css3,githubactions,git,github"/>
   </a>
 </p>
 <p align="center">
   <a href="#">
-    <img src="https://simpleskill.icons.workers.dev/svg?i=windows11,googlechrome," />
+    <img src="https://simpleskill.icons.workers.dev/svg?i=windows11,googlechrome,jira,api,docer"/>
   </a>
 </p>
 
