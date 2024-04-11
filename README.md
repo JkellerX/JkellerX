@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 </div>
 
 ## 😎 More about me
--👀 Ready to track down every bug lurking in applications.
+- 👀 Ready to track down every bug lurking in applications.
 - 👌Very precise and meticulous in conducting tests, paying attention to every detail.
--🤔 Creative in finding innovative solutions to testing challenges.
--💖 Love working both in a team and independently.
+- 🤔 Creative in finding innovative solutions to testing challenges.
+- 💖 Love working both in a team and independently.
 - 📝 [Check out my CV!] ⬅️ Download CV
 
 ## 🦾 My Skills
