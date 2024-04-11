@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="#">
-    <img src="https://simpleskill.icons.workers.dev/svg?i=visualstudiocode,postman,html5,css3,githubactions,git,github"/>
+    <img src="https://simpleskill.icons.workers.dev/svg?i=visualstudiocode,postman,html,css,githubactions,git,github"/>
   </a>
 </p>
 <p align="center">
