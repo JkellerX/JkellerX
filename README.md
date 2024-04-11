@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 📝 About Me
-![Projekt bez nazwy (7)](https://github.com/DominikCLK/Demo-Bank-Project/assets/75272795/9563588c-8860-432a-a663-2039fb7ff604)
-
+![Projekt bez nazwy (7)
 <div align="center">
 
 </div>
@@ -34,13 +33,6 @@ Here are some ideas to get you started:
 -🤔 Creative in finding innovative solutions to testing challenges.
 -💖 Love working both in a team and independently.
 - 📝 [Check out my CV!] ⬅️ Download CV
-  
-
-## 📊 GitHub Stats
-<!-- Use spaces or &nbsp; to try centering the image -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dominikclk&show_icons=true&locale=en" alt="dominikclk" />
-</p>
 
 ## 🦾 My Skills
 - ❕ Functional and non-functional testing of web applications and API's.
