@@ -47,11 +47,7 @@ Here are some ideas to get you started:
 
 ## 🔧 Technologies
 
-<p align="center">
-  <a href="#">
-    <img src="https://simpleskill.icons.workers.dev/svg?i=visualstudiocode,postman,html,css,githubactions,git,github,devtools,jira,api,docer,"/>
-  </a>
-</p>
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=git,github,docker,postman,zap,visualstudiocode,windows11,devdotto)
 
 ## 📂 Current projects
 
