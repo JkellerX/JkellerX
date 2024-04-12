@@ -56,6 +56,6 @@ Check out repo!
 - [**Example of manual API tests in Postman with collection and test report with found bugs**](https://github.com/JkellerX/restful-booker-API-Tests)
 
 ## 📫 Let's Collaborate!
-[![linkedin](https://simpleskill.icons.workers.dev/svg?i=linkedin)](www.linkedin.com/in/
-joanna-keller01/) [![My Skill](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:joannakeller01@gmail.com)
+[![linkedin](https://simpleskill.icons.workers.dev/svg?i=linkedin)(www.linkedin.com/in/
+joanna-keller01/)] [![My Skill](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:joannakeller01@gmail.com)
 
