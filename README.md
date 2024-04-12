@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 ## 🔧 Technologies
 
-[![My Skills](https://simpleskill.icons.workers.dev/svg?i=git,github,docker,postman,zap,visualstudiocode,windows11,devdotto)]
+![My Skills](https://simpleskill.icons.workers.dev/svg?i=git,github,docker,postman,zap,visualstudiocode,windows11,devdotto)
 
 ## 📂 Current projects
 
