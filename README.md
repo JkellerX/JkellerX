@@ -47,12 +47,12 @@ Here are some ideas to get you started:
 
 ## 🔧 Technologies
 
-[![My Skills](https://simpleskill.icons.workers.dev/svg?i=git,github,docker,postman,zap,visualstudiocode,windows11,devdotto)
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=git,github,docker,postman,zap,visualstudiocode,windows11,devdotto)]
 
 ## 📂 Current projects
 
-I am developing an automated testing project in which I use the Playwright + TypeScript framework. Ultimately, the projects will include test plans, test scenarios and a CD\CI pipeline
-Check out repo! 
+I am developing an manual and performance API's testing project in which I use the Postman and ZAP. Moreover i made a equivalence partitioning and value analisis tests.   Ultimately, the projects will include test plans, test scenarios. 
+Check out repo!
 - [**Example of manual API tests in Postman with collection and test report with found bugs**](https://github.com/JkellerX/restful-booker-API-Tests)
 
 ## 📫 Let's Collaborate!
