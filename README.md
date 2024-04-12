@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - 📑Creating test cases and test scenarios.
 - 🐛Bug Hunting and Tracking
 - 📰Evaluating software quality and preparing test reports.
-- 👄 English B1/B2
+- 👄 English B2
 
 ## 🔧 Technologies
 
