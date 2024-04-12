@@ -57,5 +57,5 @@ Check out repo!
 
 ## 📫 Let's Collaborate!
 [![linkedin](https://simpleskill.icons.workers.dev/svg?i=linkedin)](www.linkedin.com/in/
-joanna-keller01) [![My Skill](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:joannakeller01@gmail.com)
+joanna-keller01/) [![My Skill](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:joannakeller01@gmail.com)
 
