@@ -49,12 +49,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="#">
-    <img src="https://simpleskill.icons.workers.dev/svg?i=visualstudiocode,postman,html,css,githubactions,git,github"/>
-  </a>
-</p>
-<p align="center">
-  <a href="#">
-    <img src="https://simpleskill.icons.workers.dev/svg?i=windows11,googlechrome,jira,api,docer"/>
+    <img src="https://simpleskill.icons.workers.dev/svg?i=visualstudiocode,postman,html,css,githubactions,git,github,devtools,jira,api,docer,"/>
   </a>
 </p>
 
