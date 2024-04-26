@@ -1,5 +1,6 @@
-[![Watch the video](https://github.com/JkellerX/JkellerX/blob/main/images/HI!%20I%E2%80%99m%20Joanna%20Keller.gif){:width="100%"}]
-
+<div align="center">
+  <img src="https://github.com/JkellerX/JkellerX/blob/main/images/HI!%20I%E2%80%99m%20Joanna%20Keller.gif" alt="Watch the video" width="800">
+</div>
 ### Hi there 👋 I am Joanna !
 
 <!--
