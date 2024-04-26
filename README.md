@@ -1,3 +1,5 @@
+[![Watch the video](https://www.canva.com/design/DAGDgOeCYKE/NzvcwfP6U-ybySwuIR58tA/watch?utm_content=DAGDgOeCYKE&utm_campaign=designshare&utm_medium=link&utm_source=editor)]
+
 ### Hi there 👋 I am Joanna !
 
 <!--
