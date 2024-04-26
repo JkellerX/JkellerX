@@ -1,4 +1,4 @@
-[![Watch the video](https://www.canva.com/design/DAGDgOeCYKE/NzvcwfP6U-ybySwuIR58tA/watch?utm_content=DAGDgOeCYKE&utm_campaign=designshare&utm_medium=link&utm_source=editor)]
+[![Watch the video](https://github.com/JkellerX/JkellerX/blob/main/images/HI!%20I%E2%80%99m%20Joanna%20Keller.gif)]
 
 ### Hi there 👋 I am Joanna !
 
