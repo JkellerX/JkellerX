@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://github.com/JkellerX/JkellerX/blob/main/images/HI!%20I%E2%80%99m%20Joanna%20Keller.gif" alt="Watch the video" width="800">
 </div>
-### Hi there 👋 I am Joanna !
 
 <!--
 **JkellerX/JkellerX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
