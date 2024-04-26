@@ -1,4 +1,4 @@
-[![Watch the video](https://github.com/JkellerX/JkellerX/blob/main/images/HI!%20I%E2%80%99m%20Joanna%20Keller.gif)]
+[![Watch the video](https://github.com/JkellerX/JkellerX/blob/main/images/HI!%20I%E2%80%99m%20Joanna%20Keller.gif){:width="100%"}]
 
 ### Hi there 👋 I am Joanna !
 
