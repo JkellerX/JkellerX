@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-### I am passionate beginner tester with extensive experience as a quality control technician.
+### Feel free to follow my progress.
 
 
 </div>
