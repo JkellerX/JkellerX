@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - 👌Very precise and meticulous in conducting tests, paying attention to every detail.
 - 🤔 Creative in finding innovative solutions to testing challenges.
 - 💖 Love working both in a team and independently.
-- 📝 [Check out my CV!](https://www.canva.com/design/DAGDQuEwMCY/MCxaDa30N87AnDv67VS3og/view?utm_content=DAGDQuEwMCY&utm_campaign=designshare&utm_medium=link&utm_source=editor) ⬅️ 
+
 
 ## 🦾 My Skills
 - ❕ Functional and non-functional testing of web applications and API's.
